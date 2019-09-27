@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "magicfarmer-ydnvlc",
+  "private_key_id": "4e11953a48d6219a16eb13d14ac62bd2a10c644c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbyHe1jtYZ1bTj\ngL03ENAUAFjfnBPLYZdQwkvCshnkQ5kAKb2JmSkT5k/PVlFY5un19coE/HujSvQK\nJ/bVaSFAin6l7/wSaC9nCQAX53fWjCPGARBeYwNe3PU7SHds0EgUICoGJE+AoiaD\nbgrYEPId5BIZUMEgqRyuiI9UVVBo9WfTQ2Vkccd8ELrpaTPRKlNmNXiae63SoQrQ\nRoxn/mzrk9j8PSwTXvIW4Inb5qHL411Zxe5CEQp4p+EwkZkaHWuNCCQFtlQIE/4g\nh3tKukO1qv4kEH3U1wVd7Z4pCchF1SOzhOJMwMnKjeY0Ig9hYNqRh1cNv5x8Evus\nXB24LXUdAgMBAAECggEAHXYM3fCMsJ/eBJUQSB5f1h6Jy0evu5aUYwX4g9u97sRE\n8SmnN5epUvqPfjqS4vjpKchN0UdLB4OXnPjodIkIJQ+rlHDL+Gew2v3w3kNv4/mb\nHgKsgAqDvCagVNcM8zAkSVZaa8JYSeTyhrGskHQNEIavCmexy7//kUHK/MIG6lqj\nci6tXTTMrTLYJce6Akiz594ybAXQz+la09mmdKoZcMCMnVr2+BcMsN9YrS87sT2q\nwMplFNXeyupfLIgzkZPNLshPAmDPHVB26/nuwijDZf/HDJ3LFgU2wDy7u0Kpsita\nHGFXpMSHsIA0CHXJZw1j3hlS4e9rI1fyHFRWv0+TvQKBgQD2NAOu9e4gsItAufX5\nlrPF57noQ7nbVRp8poHYJ+No54EHVj1lZycyRcHLndCslNsrd071Tzq+E5rxspX8\n0rPW5jL77ehtv6+3zXNAg9xp+CzAweq0e4btHubxmSvPzDtL38DZQumHHNy89B9B\nRmcpbv1ZyjdNtN46dt09tirREwKBgQDkh1IkhziAW890g42xeKhRvT+c+sDdiuVx\n1SFVRae7hLq+047gQa3kPrAFpo6w3dJ9K6lcOUzpUq/qioCa6nF0o2isG+OnOA5c\nhE08flIMA771qC1QPv184nYjQHKPSEsvOkTk7hgOSGcKhDv7oK2qn1A7tFsjP8Ia\nObU4UGOXDwKBgQClrpU3/Yo1d3kOotY0E0WBjhKeik0dm+TKM6c3lohEBV7gWBnT\nDprjCuyCoP5X1Yi0dIKvNJU8aqcfteWXkRezK5Dt1slOaevPTjQcG2CN85PyV80h\njetb0SrrNP+1xCO3SKlXy96prTOi+Mm7vKwZxvY5oYqcAXZ3c5wpNlkT/wKBgQDf\n0/5LUrmvVr0JNHRKd4/8hyxQF3VhR9JUvNgqCdAwJN83WkRdN1cW76M91ZV6e7jW\n6jW141WGTXuJb+BoWumGwSobMDG4LXo7eUWg02SO6fhV6UOAjkF+2Nu2yT+rQLaK\n6jpiMyUSkC2EKmIJoaWXMPTHlW2SR7dYMl9habMxVwKBgQDB3jnODidVEcC7XjQL\nQ74QFrHPkb/C6s3Vaih54TaGnYL2VI5BWHXEaoe4WmAfVAMa6OI4f6w4+puBXgHC\nT1awPglZWtm7PjApLl4Xuy/Lh2rs/lrRwloN4r3ZrQLF+il31XFlEzuL6vBQ6xG5\n9XhMZkVNzIT5LK3f0dSGrvc26w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-27sgl@magicfarmer-ydnvlc.iam.gserviceaccount.com",
+  "client_id": "109231512367446140089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-27sgl%40magicfarmer-ydnvlc.iam.gserviceaccount.com"
+}
