@@ -3,13 +3,12 @@ from firebase_admin import credentials
 from firebase_admin import db
 
 # Fetch the service account key JSON file contents
-cred = credentials.Certificate('magicfarmerfb.json')
+cred = credentials.Certificate('magic.json')
 
 # Initialize the app with a service account, granting admin privileges
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://magicfarmer-ydnvlc.firebaseio.com/"
+    'databaseURL': "https://farmer-bglbay.firebaseio.com/"
 })
 
 # As an admin, the app has access to read and write all data, regradless of Security Rules
-ref = db.reference('items')
-print(ref.get())
+ref = db.reference('pass')

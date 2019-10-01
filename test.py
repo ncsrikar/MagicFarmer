@@ -1,5 +1,5 @@
 import dialogflow
-def detect_intent_texts(session_id, text, language_code="en",project_id="magicfarmer-ydnvlc"):
+def detect_intent_texts(session_id, text, language_code="en",project_id="farmer-bglbay"):
     """Returns the result of detect intent with texts as inputs.
 
     Using the same `session_id` between requests allows continuation
