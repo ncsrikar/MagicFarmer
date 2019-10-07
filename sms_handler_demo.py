@@ -11,8 +11,8 @@ from __future__ import print_function
 
 import logging
 from test import detect_intent_texts
-PORT = 'COM12'
-BAUDRATE = 57600
+PORT = 'COM12'  #Check your system settings to check which port the SIM800A module is connected to
+BAUDRATE = 57600    #The baud rate of Termite should match with this one
 PIN = None # SIM card PIN (if any)
 
 from gsmmodem.modem import GsmModem
@@ -22,7 +22,7 @@ def handleSms(sms):
 
     detect_intent_texts(sms.number,sms.number+" "+sms.text)
     print('Replying to SMS...')
-    # sms.reply(u'SMS received:Added')
+     sms.reply(u'SMS received:Added')
     print('SMS sent.\n')
     
 def main():
@@ -34,7 +34,7 @@ def main():
     modem.connect(PIN)
     print('Waiting for SMS message...')    
     try:    
-        modem.rxThread.join(2**22) # Specify a (huge) timeout so that it essentially blocks indefinitely, but still receives CTRL+C interrupt signal
+        modem.rxThread.join(2**10)
     finally:
         modem.close()
 
